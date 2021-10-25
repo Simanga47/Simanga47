@@ -1,0 +1,10 @@
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\bin\Debug\Hydroponics_GUI.exe.config
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\bin\Debug\Hydroponics_GUI.exe
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\bin\Debug\Hydroponics_GUI.pdb
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\obj\Debug\Hydroponics_GUI.csprojAssemblyReference.cache
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\obj\Debug\Hydroponics_GUI.Dashboard.resources
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\obj\Debug\Hydroponics_GUI.Properties.Resources.resources
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\obj\Debug\Hydroponics_GUI.csproj.GenerateResource.cache
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\obj\Debug\Hydroponics_GUI.csproj.CoreCompileInputs.cache
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\obj\Debug\Hydroponics_GUI.exe
+C:\Users\refen\source\repos\Hydroponics_GUI\Hydroponics_GUI\obj\Debug\Hydroponics_GUI.pdb

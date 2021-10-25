@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hydroponics_GUI", "Hydroponics_GUI\Hydroponics_GUI.csproj", "{B39C5962-60B7-489F-AB5F-5BDE52F76E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39C5962-60B7-489F-AB5F-5BDE52F76E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39C5962-60B7-489F-AB5F-5BDE52F76E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39C5962-60B7-489F-AB5F-5BDE52F76E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39C5962-60B7-489F-AB5F-5BDE52F76E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {651C12E7-445F-4554-AAEE-44F1809696AD}
+	EndGlobalSection
+EndGlobal
